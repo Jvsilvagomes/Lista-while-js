@@ -6,3 +6,5 @@ while (dinheiro < 10){
     moedas ++;
     console.log(`Juntei ` + dinheiro + ` reais e ` + moedas + `moedas.`);
 }
+
+// joao victor 11/04

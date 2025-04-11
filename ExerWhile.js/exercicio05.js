@@ -6,4 +6,4 @@ while(numero >+ 1 ){
 }
 console.log(`FIM!`)
 
-// joao victor 11/04
+// joão victor 11/04
